@@ -17,7 +17,7 @@ I have experimented with other possiblities on my watch history file and search 
 You can extract a lot of interesting insights from these information about yourself and your past however after all this is just a data analysis practice and should be interpreted very carefully.
 If you're interested in other related codes let me know; I'll upload them.
 
-As and example of what else you can do the data is how many videos you have watched every year; the following is my personal record and the result of days and nights of lying on the couch, watching youtube:
+As an example of what else you can do with the data is how many videos you have watched every year (or every month or day); the following is my personal record and the result of days and nights of lying on the couch, watching youtube:
 
 
 ![screen shot 2018-05-05 at 11 19 01 am](https://user-images.githubusercontent.com/8649415/39664766-41217b96-5056-11e8-8ad2-bf2bffe06deb.png)
